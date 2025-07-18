@@ -59,6 +59,7 @@ java MainClass
 
 ## Proje Yapısı
 
+```
 src/
 ├── main/
 │   ├── Game.java          # Ana oyun sınıfı
@@ -70,6 +71,7 @@ src/
 ├── resources/
 │   └── images/            # Oyun görselleri
 └── README.md
+```
 
 
 ## Gelecek Geliştirmeler
