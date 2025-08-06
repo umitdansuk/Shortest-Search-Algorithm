@@ -34,7 +34,7 @@ tüm hazineleri toplamaya çalışır.
 
 ### Gereksinimler
 - Java Development Kit (JDK) 8 veya üzeri
-- Java çalışma ortamı (JRE)
+- Java çalışma ortamı (JRE) 
 
 ### Kurulum
 1. Projeyi bilgisayarınıza indirin
