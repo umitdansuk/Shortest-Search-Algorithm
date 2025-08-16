@@ -14,7 +14,7 @@ tüm hazineleri toplamaya çalışır.
   - Herhangi bir engele çarpma durumunda oyun kaybedilir
 - **Hazine Sandıkları**: Farklı türlerde hazine sandıkları (altın, zümrüt, gümüş, bakır) toplanarak puan kazanılır
 - **Dinamik Harita**: Her oyun başlangıcında yeni bir harita oluşturulur ve engeller ile hazineler rastgele yerleştirilir
-
+ 
 ## Kullanılan Teknolojiler
 
 - **Programlama Dili**: Java
